@@ -11,7 +11,7 @@ Developed a straightforward website to serve as a user interface.
    - Images were resized, and less informative slices of scans were discarded.
    - Data preprocessing is handled by the BratsDataset class, which inherits from tf.keras.utils.Sequence.
 2. **Model:**
-   - Utilized the [U-Net architecture](https://github.com/VeerendraKocherla/BrainTumorSegmentation-UNet-Flask/blob/main/U-Net%20model%20architecture.txt) with nearly 31 million parameters for the task.
+   - Utilized the [U-Net architecture](https://github.com/ManikantaGubbala-2003/BrainTumorSegmentation-UNET-FLASK/blob/main/U-Net%20model%20architecture.txt) with nearly 31 million parameters for the task.
    - Its distinctive U-shaped structure includes an encoder to capture context and a decoder for precise localization and residual connections keep track of the original image during decoding.
    - This deep convolution neural network has been widely adopted in medical imaging due to its effectiveness in segmenting structures of interest from noisy or complex backgrounds.
 3. **Training:**
