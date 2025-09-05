@@ -21,7 +21,7 @@ Developed a straightforward website to serve as a user interface.
 4. **Evaluation:**
     - Attained a cross-entropy loss of 0.015 and an accuracy of 99.52% on the testset.
     - Achieved mean Intersection over Union (IoU) of 86.54% and Dice coefficient of 0.42 on the testset.
-    - refer predictions section in [this](https://github.com/VeerendraKocherla/BrainTumorSegmentation-UNet-Flask/blob/main/2-D_U-Net.ipynb) for predictions made by the model on testset.
+    - refer predictions section in [this](https://github.com/ManikantaGubbala-2003/BrainTumorSegmentation-UNET-FLASK/blob/main/2-D_U-Net.ipynb) for predictions made by the model on testset.
 5. **WebApp:**
    - Developed a straightforward web application using Flask.
    - Users input relative paths of flair and t1ce images and select the desired tumor area for evaluation.
